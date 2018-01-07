@@ -1,5 +1,5 @@
 # erlang_ast
-erlang AST really simple example using leex and yeec
+erlang AST really simple example using leex and yecc
 by https://arifishaq.wordpress.com/2014/01/22/playing-with-leex-and-yeec/
 
 ```
